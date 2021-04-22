@@ -20,14 +20,12 @@ Wie Sie sehen, beherrsche ich einige **Sprachen** und interessiere mich für unt
 * Freunde treffen und sonstiges
 
 
-### Grundsätzliche Sprachen, die ich beherrse
+### Grundsätzliche Sprachen, die ich beherrsche
 
 ```C#
-START
 Java
 Javascript, Css, HTML
 C
 C#
-LaTEX
-END
+LaTeX
 ```
