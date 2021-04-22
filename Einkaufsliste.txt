@@ -4,3 +4,7 @@ Gurken
 Schokolade
 Schokoladensorten
 Schokoladenpralinen
+Müsli
+Marmelade
+Milch
+Cola
